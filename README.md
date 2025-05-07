@@ -10,11 +10,11 @@
 
 ## Description + Text + Images
 
-![Scan1](scan_printed_essay_1.jpg)  Fig 1. Scan from the paper used on the colloquium in Radio Angrezi Show, Hochschultage 2025, HfK Bremen, showing notes I wrote about my process.
+![Scan1](scan_printed_essay_1.jpg) Scan from the paper used on the colloquium in Radio Angrezi Show, Hochschultage 2025, HfK Bremen, showing notes I wrote about my process.
 
 The following essay is an exploration and reflection on the life of my great aunt Aura, who worked in the Merino coffee factory in the 60s. Starting from her oral tradition and stories around coffee, I carry out an essay that crosses approaches from sound philosophy to talk about silencing, the defiance of family narratives, and sound in my artistic practice as another way of making memory.. 
 
-![Aura Portrait](photo_aura_sisters.png) Fig 2. Scan from my family archive, Aura is the one furthest to the left, the other people are unknown, Valle del Cauca, Colombia, 60’s decade.
+![Aura Portrait](photo_aura_sisters.png) Scan from my family archive, Aura is the one furthest to the left, the other people are unknown, Valle del Cauca, Colombia, 60’s decade.
 
 Ana María Ochoa Gautier, in her text Silence, insightfully explores silence as a political tool for erasing voices. What does it mean to take away someone’s voice? I ask myself, recalling the moments when Aura told me she remained silent—through her premature adulthood, growing up as an orphaned girl, later as a woman, through the obedience demanded by the factory, and while living in a small room caring for other people’s children. In class, I reflected on how to imagine her life through my own. With this project, I seek to remember and honor her, to speak about the world, the history of a nation and its people, while turning to sonic fiction as a way of asking: What does a coffee bean sound like? What can it reveal to us?
 
