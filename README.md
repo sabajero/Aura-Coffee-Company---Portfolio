@@ -10,7 +10,7 @@ Type: Audio Essay, 09:15 minutes. Stereo Sound. Mastering: Chi Him Chik
 
 ## Description + Text + Images
 
-![Scan1](scan_printed_essay_1.jpg)  Fig 1. Scan from the paper used on the colloquium in Radio Angrezi Show, Hochschultage 2025, HfK Bremen, showing notes I wrote about my process.
+![Scan1](scan1_printed_essay_1.jpg)  Fig 1. Scan from the paper used on the colloquium in Radio Angrezi Show, Hochschultage 2025, HfK Bremen, showing notes I wrote about my process.
 
 The following essay is an exploration and reflection on the life of my great aunt Aura, who worked in the Merino coffee factory in the 60s. Starting from her oral tradition and stories around coffee, I carry out an essay that crosses approaches from sound philosophy to talk about silencing, the defiance of family narratives, and sound in my artistic practice as another way of making memory.. 
 
@@ -26,7 +26,7 @@ Ana María Ochoa Gautier, in her text Silence, insightfully explores silence as 
 
 You can listen to the audio essay here: https://soundcloud.com/sabajero/auracoffeecompany
 
-And read the complete essay as a pdf: !essay_pdf_aura_coffee_company
+And read the complete essay as a pdf: ![Essay PDF](essay_pdf_aura_coffee_company.pdf)
 
 Or here (https://sites.google.com/view/jeronimo-gutierrezbalanta/projects/audio-essay-aura-coffe-company?authuser=0) In my portfolio page as an entry
 
