@@ -1,12 +1,12 @@
 ## Documentation Aura Coffee Company
 
-Title: Aura Coffee Company
-Category: Semester Work
-Student/s: Jerónimo Gutiérrez Balanta
-Course Title: Sound Theories Aloud
-Lecturer/s: Prof. Dr. Petra Klusmeyer.
-Year: 2025, Winter Semester 24’
-Type: Audio Essay, 09:15 minutes. Stereo Sound. Mastering: Chi Him Chik
+- Title: Aura Coffee Company
+- Category: Semester Work
+- Student/s: Jerónimo Gutiérrez Balanta
+- Course Title: Sound Theories Aloud
+- Lecturer/s: Prof. Dr. Petra Klusmeyer.
+- Year: 2025, Winter Semester 24’
+- Type: Audio Essay, 09:15 minutes. Stereo Sound. Mastering: Chi Him Chik
 
 ## Description + Text + Images
 
