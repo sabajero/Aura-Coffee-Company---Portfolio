@@ -1,6 +1,3 @@
-# Aura-Coffee-Company---Portfolio
-A repository to storage the audio essay "Aura Coffe Company", made in the context of the class "Sound Theories Aloud" by Prof. Petra Klusmeyer, with the participation too of Indrayuth Sengupta, Ijei, Gabriella Serrano de Oliveira and Vanshika. This project along with my colleague's projects were displayed and discussed on HfK Bremen, HST 25'.
-
 ## Documentation Aura Coffee Company
 
 Title: Aura Coffee Company
@@ -22,7 +19,9 @@ The following essay is an exploration and reflection on the life of my great aun
 Ana María Ochoa Gautier, in her text Silence, insightfully explores silence as a political tool for erasing voices. What does it mean to take away someone’s voice? I ask myself, recalling the moments when Aura told me she remained silent—through her premature adulthood, growing up as an orphaned girl, later as a woman, through the obedience demanded by the factory, and while living in a small room caring for other people’s children. In class, I reflected on how to imagine her life through my own. With this project, I seek to remember and honor her, to speak about the world, the history of a nation and its people, while turning to sonic fiction as a way of asking: What does a coffee bean sound like? What can it reveal to us?
 
 !(HST_25_06.JPG)
+
 !(HST_25_00.JPG)
+
 !(HST_25_05.JPG)
 
 You can listen to the audio essay here: https://soundcloud.com/sabajero/auracoffeecompany
